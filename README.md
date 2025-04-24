@@ -32,15 +32,13 @@
 ## 🌟 Media (˶˃ ᵕ ˂˶)
 
 ### 🔹 Wallpaper
-https://t.me/catppuccin_theme  
-Download wallpapers in Telegram Channel
+<img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/telegram.svg">https://t.me/catppuccin_theme<br>Download wallpapers in Telegram Channel    
 
-### 🔹 Youtube video
-https://youtu.be/yRR9R3icnqk | https://youtu.be/7wIWAlp8DGY | https://youtu.be/UBSmT51ljUA   
+### 🔹 Youtube video 
+<img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/youtube.svg">https://youtu.be/yRR9R3icnqk<br>YouTube preview  
 
 ### 🔹 Spotify Playlist
-https://spti.fi/catppuccin  
-Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.  
+<img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/spotify.svg">https://spti.fi/catppuccin<br>Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.    
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🦆 GNOME Theme ≽^•⩊•^≼
