@@ -24,9 +24,9 @@
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 > [!NOTE]
-> _This theme is created for newbies and mediocre Linux users and aims to provide app names and styles. You can follow these steps to install apps and modify different parts of Linux UI.  
-> There is no one command/app to get Catppuccin Theme applied, it's necessary to set it up step by step for yourself.  
-> If you have an exact question regarding some parts you want to install to match the Catppuccin Theme, I'm glad to help._
+> https://extensions.gnome.org/extension/19/user-themes/
+> https://github.com/maniacx/Bluetooth-Battery-Meter
+> https://github.com/micheleg/dash-to-dock
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🌟 Media (˶˃ ᵕ ˂˶)
