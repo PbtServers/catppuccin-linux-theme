@@ -24,9 +24,13 @@
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 > [!NOTE]
+
 > https://extensions.gnome.org/extension/19/user-themes/
+
 > https://github.com/maniacx/Bluetooth-Battery-Meter
+
 > https://github.com/micheleg/dash-to-dock
+
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🌟 Media (˶˃ ᵕ ˂˶)
