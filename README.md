@@ -31,6 +31,8 @@
 
 > https://github.com/micheleg/dash-to-dock
 
+> https://github.com/catppuccin/steam-deck
+
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🌟 Media (˶˃ ᵕ ˂˶)
